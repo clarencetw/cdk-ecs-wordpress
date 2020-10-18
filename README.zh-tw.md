@@ -13,3 +13,11 @@
 - AWS EFS
 - AWS ALB
 - AWS Secrets Manager
+
+安裝方法：
+
+- cdk deploy
+
+移除方法：
+
+- cdk destroy
